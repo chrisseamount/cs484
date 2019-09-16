@@ -1,0 +1,36 @@
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\nunit.framework.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEditor.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.TestRunner.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.Timeline.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Common.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\Mono.Cecil.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\Unity.SerializationLogic.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\Unity.DataContract.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\ExCSS.Unity.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\Unity.Legacy.NRefactory.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\Unity.UNetWeaver.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\Unity.CecilTools.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\Mono.Cecil.Pdb.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\Mono.Cecil.Mdb.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEditor.xml
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.xml
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.TestRunner.xml
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\nunit.framework.xml
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.Timeline.xml
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_bin\Debug\UnityEngine.HoloLens.xml
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_obj\Debug\matrix operations.csprojAssemblyReference.cache
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_obj\Debug\matrix operations.csproj.CoreCompileInputs.cache
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_obj\Debug\matrix operations.csproj.CopyComplete
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+Q:\Documents\unityprojects\matrix operations\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
