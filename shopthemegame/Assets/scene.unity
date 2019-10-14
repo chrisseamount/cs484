@@ -210,6 +210,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 1237680802}
+  speed: 5
 --- !u!1 &1459028995
 GameObject:
   m_ObjectHideFlags: 0

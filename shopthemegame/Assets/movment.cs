@@ -6,6 +6,8 @@ public class movment : MonoBehaviour {
 
     public Animator animator;
 
+    public float speed;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -17,9 +19,19 @@ public class movment : MonoBehaviour {
 
         animator.SetFloat("horizontal", movement.x);
         animator.SetFloat("vertical", movement.y);
+        animator.SetFloat("magnitude", movement.magnitude);
 
+        if(movement.x == 0f && movement.y == 0f)
+        {
+            
+        }
+        else
+        {
+            animator.SetFloat("lastx",movement.x);
+            animator.SetFloat("lasty",movement.y);
+        }
         
-        transform.position = transform.position + movement * Time.deltaTime;
+        transform.position = transform.position + movement * Time.deltaTime * speed;
        
     }
 }
