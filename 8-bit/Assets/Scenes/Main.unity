@@ -430,7 +430,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnLocations:
-  - {fileID: 0}
   - {fileID: 393441111}
   - {fileID: 2093388812}
   - {fileID: 1009194341}
